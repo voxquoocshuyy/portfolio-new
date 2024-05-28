@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7710bbfd.css",
+    "main.js": "/static/js/main.50043841.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/microservice.png": "/static/media/microservice.ca0405b4a09a8fe5b41b.png",
+    "static/media/workbee.png": "/static/media/workbee.8fdb7636872db51d8ffa.png",
+    "static/media/invoice.png": "/static/media/invoice.19f9bb0dcd91627b817f.png",
+    "static/media/kensa.png": "/static/media/kensa.b3009ff0b32cb6314ca8.png",
+    "static/media/cv.pdf": "/static/media/cv.4e5e72c88d612ab3a8d7.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/ocelot.png": "/static/media/ocelot.ba76d3076f7687fc5d34.png",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.7710bbfd.css.map": "/static/css/main.7710bbfd.css.map",
+    "main.50043841.js.map": "/static/js/main.50043841.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7710bbfd.css",
+    "static/js/main.50043841.js"
+  ]
+}
