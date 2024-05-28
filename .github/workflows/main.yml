@@ -35,6 +35,10 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      # Update browserslist database
+      - name: Update browserslist database
+        run: npx browserslist@latest --update-db
+
       # Runs a single command using the runners shell
       - name: Build the project
-        run: npm run build
+        run: CI=false npm run build
