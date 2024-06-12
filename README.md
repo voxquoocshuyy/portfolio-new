@@ -2,9 +2,6 @@
   Portfolio Website - v2.0<br/>
   <a href="https://voxquoocshuyy-portfolio.vercel.app" target="_blank">voxquoocshuyy</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
 
 <br/>
 
